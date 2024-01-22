@@ -1355,7 +1355,7 @@ Upgrade Notes
       additional_endpoints:                # |
       use_compression:                     # |
       compression_level:                   #  > unchanged generic parameters for the generic EVP pipeline
-        …                                  # |
+                                          # |
       use_v2_api:                          # /
   
     container_image:
@@ -1364,7 +1364,7 @@ Upgrade Notes
       additional_endpoints:                # |
       use_compression:                     # |
       compression_level:                   #  > unchanged generic parameters for the generic EVP pipeline
-        …                                  # |
+                                          # |
       use_v2_api:                          # /
   
     sbom:
